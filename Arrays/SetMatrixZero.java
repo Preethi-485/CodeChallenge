@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 public class SetMatrixZero{
     public static int[][] setmat(int mat[][],int r,int c){
         List<Integer> row=new ArrayList<>();
