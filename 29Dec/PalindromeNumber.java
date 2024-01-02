@@ -1,4 +1,5 @@
 import java.util.*;
+
 class PalindromeNumber{
 public static void main(String[] args){
     int n=121;
