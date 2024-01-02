@@ -1,5 +1,7 @@
 import java.util.*;
 
+
+
 class GeekAndBuilding {
     public static long maximum_energy(int n, int[] arr) {
         // code here
